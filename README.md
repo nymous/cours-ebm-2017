@@ -1,0 +1,14 @@
+Notes de cours EBM 2017-2018
+============================
+
+Je déposerai ici les notes que je prends en cours, avec les PDF (s'ils ne sont pas trop lourds et que j'ai le droit de les reproduire).
+Toutes ces notes sont personnelles et représentent mon point de vue ; elles n'engagent que moi.
+
+## Raccourcis
+
+- Bases du génie logiciel
+  - [Cours 1](BasesDuGenieLogiciel/Cours1.md)
+- Modélisation UML
+  - [Cours 1](ModelisationUML/Cours1.md)
+- Referencement
+  - [Cours 1](Referencement/Cours1.md)
