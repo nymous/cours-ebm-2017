@@ -9,6 +9,10 @@ Influence HTTP/HTTPS ?
 Influence HTTP1/HTTP2 ?
 Influence AMP ?
 Backlinks au blackmarket ?
+Crawl budget : Google alloue un certain temps à ses bots pour scanner des pages
+Influence temps de réponse ?
+Le robots.txt est-il respecté ?
+Influence des sites compatibles mobile ?
 ```
 
 ## Pourquoi le SEO ?
