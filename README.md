@@ -17,3 +17,5 @@ Si vous remarquez des erreurs, ouvrez des issues ou créez des Pull Requests pou
   - [Cours 2](Referencement/Cours2.md) : Origines du SEO
   - [Cours 3](Referencement/Cours3.md) : Dans la peau d'un moteur de recherche
   - [Cours 4](Referencement/Cours4.md) : La fréquentation d'un site
+  - [Cours 5](Referencement/Cours5.md) : Référencement commercial
+  - [Cours 6](Referencement/Cours6.md) : Les outils du Web Analytics
