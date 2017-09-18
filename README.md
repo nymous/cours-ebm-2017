@@ -14,3 +14,5 @@ Si vous remarquez des erreurs, ouvrez des issues ou créez des Pull Requests pou
   - [Cours 1](ModelisationUML/Cours1.md)
 - Referencement
   - [Cours 1](Referencement/Cours1.md)
+  - [Cours 2](Referencement/Cours2.md)
+  - [Cours 3](Referencement/Cours3.md)
