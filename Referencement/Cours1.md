@@ -1,9 +1,26 @@
 Référencement / SEO
 ===================
 
+<!-- MarkdownTOC uri_encoding="false" -->
+
+- [Pourquoi le SEO ?](#pourquoi-le-seo-)
+- [L'avenir de l'immobilier](#lavenir-de-limmobilier)
+- [SERP = Search Engine Result Page](#serp--search-engine-result-page)
+- [Référencement naturel ou "organique"](#référencement-naturel-ou-organique)
+- [Jargon](#jargon)
+  - [Publicité](#publicité)
+  - [Algorithme de ranking](#algorithme-de-ranking)
+  - [Optimisation pour les moteurs de recherche](#optimisation-pour-les-moteurs-de-recherche)
+  - [Linking](#linking)
+  - [Autres](#autres)
+- [Déroulé des chapitres du cours](#déroulé-des-chapitres-du-cours)
+
+<!-- /MarkdownTOC -->
+
 Lien sur [Centrale Wiki](https://wiki.centraliens-lille.org/wiki/APP_SEO_/_R%C3%A9f%C3%A9rencement)
 
 Questions à se poser : est-ce que les moteurs de recherche respectent le `nofollow` ? (comparer la console Bing/Google et les logs serveurs)
+
 ```
 Influence HTTP/HTTPS ?
 Influence HTTP1/HTTP2 ?
@@ -13,24 +30,25 @@ Crawl budget : Google alloue un certain temps à ses bots pour scanner des pages
 Influence temps de réponse ?
 Le robots.txt est-il respecté ?
 Influence des sites compatibles mobile ?
+Influence d'un compte Google+ ?
 ```
 
 ## Pourquoi le SEO ?
 
 Slogan de marketing : "Location, location, location" -> il faut être bien placé
 
-Déplacement du commerce physique vers le web (e-commerce) depuis 15 ans
-Ordis d'il y a 15 ans : VT220
-Développement du Web dans les années 90
-Bulle "Internet" spéculative : plein de startups se créaient pour vendre n'importe quoi sur Internet,
-mais l'investissement initial était énorme et pas assez de clients -> éclatement de la bulle en 2000-2001
+Déplacement du commerce physique vers le web (e-commerce) depuis 15 ans  
+Ordis d'il y a 15 ans : VT220  
+Développement du Web dans les années 90  
+Bulle "Internet" spéculative : plein de startups se créaient pour vendre n'importe quoi sur Internet,  
+mais l'investissement initial était énorme et pas assez de clients -> éclatement de la bulle en 2000-2001  
 On a maintenant atteint un plateau de rentabilité, il n'y aura plus de crash énorme : c'est un métier
 
 ## L'avenir de l'immobilier
 
-Internet est **LE** nouveau monde : > 45 milliards de page (sans compter l'intranet, extranet, deepnet, undernet)
-Internet est le réseau de telcom qui a pénétré le marché le plus rapidement (20x téléphone, 10x radio, 3x télévision)
-Dans l'immobilier, ce qui est important c'est la localisation : où est le magasin ? zone franche, centre commercial... et maintenant **placement dans les résultats de recherche**
+Internet est **LE** nouveau monde : > 45 milliards de page (sans compter l'intranet, extranet, deepnet, undernet)  
+Internet est le réseau de telcom qui a pénétré le marché le plus rapidement (20x téléphone, 10x radio, 3x télévision)  
+Dans l'immobilier, ce qui est important c'est la localisation : où est le magasin ? zone franche, centre commercial... et maintenant **placement dans les résultats de recherche**  
 -> Immobilier virtuel
 
 MAIS :
@@ -40,12 +58,12 @@ Le positionnement dans l'immobilier virtuel est :
   - *oligopolistique* : y'a Google... et les autres
   - *éphémère* : le positionnement n'est jamais acquis, on peut redescendre dans les résultats
 
-=> Enjeu vital pour l'entreprise
+=> Enjeu vital pour l'entreprise  
 => Compétences très demandées
 
 ## SERP = Search Engine Result Page
 
-10 résultats
+10 résultats  
 CTR : Click-Through Rate
   1. 18%
   2. 10%
@@ -55,8 +73,8 @@ CTR : Click-Through Rate
 
 ## Référencement naturel ou "organique"
 
-:warning: les liens sponsorisés ne comptent pas, c'est de la publicité
-Objectif : comment se placer 1er dans les résultats ?
+:warning: les liens sponsorisés ne comptent pas, c'est de la publicité  
+Objectif : comment se placer 1er dans les résultats ?  
   - choisir des mots clés stratégiques : utiliser des mots clés ultra porteurs (XXX), ou alors prendre des mots clés spécifiques (longue traîne) où on sera forcément premier
 
 Les étapes du SEO :
