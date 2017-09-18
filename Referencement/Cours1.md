@@ -65,11 +65,11 @@ Le positionnement dans l'immobilier virtuel est :
 
 10 résultats  
 CTR : Click-Through Rate
-  1. 18%
-  2. 10%
-  3. 7%
-  4. 5%
-  10. 1%
+  * 1. 18%
+  * 2. 10%
+  * 3. 7%
+  * 4. 5%
+  * 10. 1%
 
 ## Référencement naturel ou "organique"
 

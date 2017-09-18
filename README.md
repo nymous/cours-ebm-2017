@@ -16,3 +16,4 @@ Si vous remarquez des erreurs, ouvrez des issues ou créez des Pull Requests pou
   - [Cours 1](Referencement/Cours1.md) : Introduction
   - [Cours 2](Referencement/Cours2.md) : Origines du SEO
   - [Cours 3](Referencement/Cours3.md) : Dans la peau d'un moteur de recherche
+  - [Cours 4](Referencement/Cours4.md) : La fréquentation d'un site
