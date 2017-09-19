@@ -8,14 +8,16 @@ Si vous remarquez des erreurs, ouvrez des issues ou créez des Pull Requests pou
 
 ## Raccourcis
 
-- Bases du génie logiciel
-  - [Cours 1](BasesDuGenieLogiciel/Cours1.md)
-- Modélisation UML
-  - [Cours 1](ModelisationUML/Cours1.md)
-- Referencement
-  - [Cours 1](Referencement/Cours1.md) : Introduction
-  - [Cours 2](Referencement/Cours2.md) : Origines du SEO
-  - [Cours 3](Referencement/Cours3.md) : Dans la peau d'un moteur de recherche
-  - [Cours 4](Referencement/Cours4.md) : La fréquentation d'un site
-  - [Cours 5](Referencement/Cours5.md) : Référencement commercial
-  - [Cours 6](Referencement/Cours6.md) : Les outils du Web Analytics
+* Bases du génie logiciel
+    - [Cours 1](BasesDuGenieLogiciel/Cours1.md)
+* Modélisation UML
+    - [Cours 1](ModelisationUML/Cours1.md)
+* Referencement
+    - [Cours 1](Referencement/Cours1.md) : Introduction
+    - [Cours 2](Referencement/Cours2.md) : Origines du SEO
+    - [Cours 3](Referencement/Cours3.md) : Dans la peau d'un moteur de recherche
+    - [Cours 4](Referencement/Cours4.md) : La fréquentation d'un site
+    - [Cours 5](Referencement/Cours5.md) : Référencement commercial
+    - [Cours 6](Referencement/Cours6.md) : Les outils du Web Analytics
+* Versioning
+    - [Cours 1](Versioning/Cours1.md)
