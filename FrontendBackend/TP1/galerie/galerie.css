@@ -1,0 +1,45 @@
+:root {
+    --img-margin: 5px;
+    --border-radius: 3px;
+    --box-width: 200px;
+    --box-height: 250px;
+}
+
+body > div {
+    border: solid 1px black;
+    float: left;
+    width: var(--box-width);
+    height: var(--box-height);
+    margin: 20px;
+    position: relative;
+    transition: transform 0.2s, box-shadow 0.2s;
+    border-radius: var(--border-radius);
+    box-shadow: 1px 1px 2px 0 grey;
+}
+
+body > div:hover {
+    transform: translateY(-1px);
+    box-shadow: 1px 1px 2px 2px grey;
+    cursor: pointer;
+}
+
+body > div:nth-child(3n + 1) {
+    clear: left;
+}
+
+img {
+    max-width: calc(100% - var(--img-margin)*2);
+    height: auto;
+    margin: var(--img-margin);
+}
+
+img + div {
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    background: lightgrey;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 0 0 var(--border-radius) var(--border-radius);
+}
